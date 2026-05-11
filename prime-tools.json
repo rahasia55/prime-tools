@@ -1,0 +1,22 @@
+[
+  {
+  "visibility": "INVISIBLE",
+  "min_version": "1.1",
+  "app_name": "ML Tools Hub",
+  "dialog_title": "Versi terbaru telah tersedia",
+  "dialog_message": "Silahkan klik update aplikasi",
+  "button_update": "Update",
+  "button_cancel": "Cancel",
+  "cancelable": true,
+  "info": "tes",
+  "link_update": "https://play.google.com/store/apps/details?id=com.sopinje.tct",
+  "tutor_main": "https://youtube.com/shorts/2-KNMWZCTp0?si=Y-6PDlXv8-d0ZG8n",
+  "tutor_file": "https://youtube.com/shorts/2-KNMWZCTp0?si=Y-6PDlXv8-d0ZG8n",
+  "tutor_shizuku": "https://youtube.com/shorts/2kmD4p4N2QM?si=Kiz9gcDHXjzTG1NK",
+  "tutor_iadb": "https://youtube.com/shorts/phKQ5HiIzvM?si=VXJR94xatzHjbKrA",
+  "youtube": "https://youtube.com/@ngulikml?si=3BljqwB_TpFLJifQ",
+  "tiktok": "https://www.tiktok.com/@gstools.id?_r=1&_t=ZS-95PmTIDkco0",
+  "whatsapp": "https://chat.whatsapp.com/CY1HKBpfYRhJVMVz3duAqv",
+  "telegram": "https://youtube.com/playlist?list=PLSFNfsqxpQeO-05lncVk079T3jrYH9SZc&si=rSzE4OQNQdA7e5Sa"
+  }
+]
