@@ -1,6 +1,6 @@
 [
   {
-  "visibility": "INVISIBLE",
+  "visibility": "VISIBLE",
   "min_version": "1.3",
   "app_name": "Prime Tools ML",
   "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
