@@ -1,8 +1,8 @@
 [
   {
-  "visibility": "INVISIBLE",
+  "visibility": "VISIBLE",
   "upgrade_skin_enabled": true,
-  "min_version": "1.4",
+  "min_version": "1.5",
   "app_name": "Prime Tools ML",
   "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
   "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi IQ Tools. klik update",
