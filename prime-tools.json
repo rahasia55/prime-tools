@@ -1,7 +1,7 @@
 [
   {
   "visibility": "INVISIBLE",
-  "upgrade_skin_enabled": true,
+  "upgrade_skin_enabled": false,
   "min_version": "1.5",
   "app_name": "Prime Tools ML",
   "dialog_title": "App under maintenance. Meanwhile, please use GT Tools ML. Click update",
